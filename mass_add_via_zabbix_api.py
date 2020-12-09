@@ -18,8 +18,8 @@ def zabbix_api_add(ip):
         "jsonrpc" : "2.0",
         "method" : "user.login",
         "params" : {
-            "user" : "z13hchen",
-            "password" : "qwert123.."
+            "user" : "z13hchen..........",
+            "password" : "
         },
         "id" : 1
     }
